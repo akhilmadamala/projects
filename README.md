@@ -11,7 +11,7 @@ Image Recommendation										       (ASU)  Aug-Dec 2018
 •	Built Clusters of similar images using Spectral and Normalize cut partition algorithm from image-image graph with k specified edges.
 •	Visualized K- dominant Images based on input to generate relevant images using Personalized page ranking algorithm, Locality sensitive Hashing.
 
-Product Recommendation Engine:								      (ASU)  May-Dec 2019
+Movie Recommendation Engine:								      (ASU)  May-Dec 2019
 •	Created a Recommendation model to suggest products to Users and boost sales based on amazon dataset.
 •	Trained the model using matrix factorization with gradient decent to predict the user and item vectors.
 •	Built Sunburst and word cloud webpages for indexing and to describe products.
