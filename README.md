@@ -1,5 +1,4 @@
 # projects
-all Resume projects
 
 The list contains all of the projects in the resume.
 
