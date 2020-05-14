@@ -32,7 +32,7 @@ The project descriptions are as follows:
 •	Achieved 84 percent classification accuracy and F1 score of 0.6 using a set of trained Neural networks on testing data 
 among other models  Random forest, SVM, and logistic regression. <br/>
 
-## Amazon Analystics                                    (ASU) Jan-May 2019<br/>
+## Amazon Analytics Website                             (ASU) Jan-May 2019<br/>
 •	Pre-processed the amazon dataset and classified products based on catagories <br/>
 • Used Apache Lucene to get information of top 10 products, positive and negative words for products etc.<br/>  
 • Displayed the analytics using Sunburst, word cloud and bubble chart using interactive visualizations <br/>
