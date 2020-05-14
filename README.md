@@ -2,7 +2,8 @@
 
 The list contains all of the projects in the resume.
 
-the project descriptions are as follows:
+The project descriptions are as follows:
+
 Indeed posts classifier:										        (ASU)  Jan-May 2020
 •	Scraped data from indeed job postings using beautiful soup to train an NLP Classification model. 
 •	Pre-processed data by removing stop words, punctuation, noise, etc.
