@@ -6,10 +6,10 @@ The project descriptions are as follows:
 
 ## Indeed posts classifier:										        (ASU)  Jan-May 2020
 
-•	Scraped data from indeed job postings using beautiful soup to train an NLP Classification model. 
-•	Pre-processed data by removing stop words, punctuation, noise, etc.
-•	Achieved a cross-validation score of 86 percent after grid search.
-•	Classified data scraped per company to respective functional areas using the trained model.
+•	Scraped data from indeed job postings using beautiful soup to train an NLP Classification model. <br/>
+•	Pre-processed data by removing stop words, punctuation, noise, etc.<br/>
+•	Achieved a cross-validation score of 86 percent after grid search.<br/>
+•	Classified data scraped per company to respective functional areas using the trained model.<br/>
 
 ## Movie Recommendation Engine:								                      (ASU)  Aug-Dec 2019
 
