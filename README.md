@@ -10,7 +10,7 @@ The project descriptions are as follows:
 •	Achieved a cross-validation score of 86 percent after grid search.<br/>
 •	Classified data scraped per company to respective functional areas using the trained model.<br/>
 
-## Movie Recommendation Engine:								        (ASU)  Aug-Dec 2019<br/>
+## Movie Recommendation System:								        (ASU)  Aug-Dec 2019<br/>
 
 •	Created a Recommendation model to suggest products to users and boost sales.<br/>
 •	Trained the model using matrix factorization and content-based filtering to predict the user and movie vectors.<br/>
@@ -32,3 +32,8 @@ The project descriptions are as follows:
 •	Achieved 84 percent classification accuracy and F1 score of 0.6 using a set of trained Neural networks on testing data 
 among other models  Random forest, SVM, and logistic regression. <br/>
 
+## Amazon Analystics                                    (ASU) Jan-May 2019<br/>
+•	Pre-processed the amazon dataset and classified products based on catagories <br/>
+• Used Apache Lucene to get information of top 10 products, positive and negative words for products etc.<br/>  
+• Displayed the analytics using Sunburst, word cloud and bubble chart using interactive visualizations <br/>
+• Hosted the website on AWS <br/>
