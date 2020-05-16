@@ -2,7 +2,7 @@
 http://13.52.130.222:8000/server/predict/
 
 ************************Web Framework ******************************************************
-Used django restframe work in amazon web services to host the server
+Used django restframework in amazon web services to host the server
 
 ************************Machine Learning Models*********************************************
 Used Decision Trees, Logistic Regression, Random Forest, kNN as the 4 models. 
