@@ -34,6 +34,6 @@ among other models  Random forest, SVM, and logistic regression. <br/>
 
 ## Amazon Analytics Website                             (ASU) Jan-May 2019<br/>
 •	Pre-processed the amazon dataset and classified products based on catagories <br/>
-• Used Apache Lucene to get information of top 10 products, positive and negative words for products etc.<br/>  
+• Also, analysed data using pySpark to get information of top 10 products, positive and negative words for products<br/>  
 • Displayed the analytics using Sunburst, word cloud and bubble chart using interactive visualizations <br/>
 • Hosted the website on AWS <br/>
