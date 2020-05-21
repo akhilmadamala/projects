@@ -1,5 +1,4 @@
 #Indeed_posts_classifier
-**Report**
 
 **Aim:**
 
@@ -28,12 +27,10 @@ Naïve bayes, logistic regression, svm and Random forest
 Among the above Svm performed better and hence was chosen with alpha of 0.001 and showed a best cross validation score of 0.8626226583407671
 
 **Best parameters for the constructed pipeline are**
-
-{&#39;classifier\_\_alpha&#39;: 0.001, &#39;vectorizer\_\_ngram\_range&#39;: (1, 1)} where the n\_gram is used for the tfidf vectorizer used in the pipeline.
-
+{'classifier__alpha': 0.001, 'vectorizer__ngram_range': (1, 1)} where the n_gram is used for the tfidf vectorizer used in the pipeline. 
 For results of grid search for the above mentioned algorithms see the attached grid search text file.
 
-**Observations: **
+**Observations:**
 
 1. It is observed that using the job title for training showed accuracy of 70 percent and is hence excluded and hence job description was taken into consideration
 
