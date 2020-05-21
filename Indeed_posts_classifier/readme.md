@@ -17,8 +17,7 @@ The project is divided into three parts
 First data was scraped from indeed website for random companies for given functional areas and is used to train the classifier model using supervised learning. After tuning, testing and validation the trained model with the best parameters is saved. The company wise data is passed and a output csv file called final\_results.csv containing the unique company names and jobs per functional area is outputted.
 
 **Note:**
-
-    The final\_results.csv has more the 100 companies given is because of various names the company uses while posting and some companies are excluded they did not produce any job posting results.
+The final_results.csv has more the 100 companies given is because of various names the company uses while posting and some companies are excluded they did not produce any job posting results.
 
 **Algorithms used:**
 
