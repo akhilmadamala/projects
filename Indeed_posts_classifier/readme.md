@@ -25,7 +25,7 @@ Naïve bayes, logistic regression, svm and Random forest
 
 Among the above Svm performed better and hence was chosen with alpha of 0.001 and showed a best cross validation score of 0.8626226583407671
 
-**Best parameters for the constructed pipeline are**
+**Best parameters for the constructed pipeline are**<br/>
 {'classifier__alpha': 0.001, 'vectorizer__ngram_range': (1, 1)} where the n_gram is used for the tfidf vectorizer used in the pipeline. 
 For results of grid search for the above mentioned algorithms see the attached grid search text file.
 
