@@ -7,7 +7,7 @@
 
 ## To Run
 Open the index.html file in the browser<br/>
-The site can be navigated based on the requirements ( see the video on the home page to understand the website and how it can be used)
+The site can be navigated based on user requirement ( see the video on the home page to understand the website and how it can be used)
 
 
 
