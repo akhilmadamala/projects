@@ -8,7 +8,7 @@ Used django restframework in amazon web services to host the server
 Used Decision Trees, Logistic Regression, Random Forest, KNN as the 4 models. 
 
 **Data preprocessing**<br/>
-Recorded videos for every sign in american sign languageand converted them in to key points data which indicate the various reference points for parts of humn body<br/>
+Recorded videos for every sign in american sign language and converted them in to key points data which indicate the various reference points for different parts of human body<br/>
 Preprocessed the data by making even frames for all the data by subtracting the fixed pints like nose etc and normalized with shoulder and hip length and then performed FFT on the datafor better results.<br/> 
 Then used pickle to dump the model and used by the web server <br/>
 
