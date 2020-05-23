@@ -1,6 +1,6 @@
 # projects
 
-The list contains all of the projects in the resume.
+(look inside the project folders for detailed description and requirements)
 
 The project descriptions are as follows:
 
