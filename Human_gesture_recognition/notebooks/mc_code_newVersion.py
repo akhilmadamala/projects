@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from scipy.fftpack import rfft2
+from scipy.fftpack import rfft
 import glob
 from sklearn.neighbors import KNeighborsClassifier
 from keras.preprocessing import sequence
@@ -180,7 +180,7 @@ for j in range(6):
 
 
 
-        fd=rfft2(fd)
+        fd=rfft(fd)
 
         fd=pd.DataFrame(fd)
 
