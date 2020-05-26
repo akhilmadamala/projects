@@ -1,6 +1,6 @@
 # projects
 
-(look inside the project folders for detailed description and requirements)
+(look inside the project folders for detailed description and requirements for running the scripts)
 
 The project descriptions are as follows:
 
