@@ -1,4 +1,4 @@
-Django==2.1
+Django==2.2.24
 djangorestframework==3.8.2
 joblib==0.14.0
 numpy==1.17.4
